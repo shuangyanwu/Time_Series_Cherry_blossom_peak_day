@@ -3,5 +3,5 @@
 * Conducted model selection using PACF/ACF plots and AIC/BIC criteria.
 * Used ARIMA (1,1,2) models to fit the data and forcast for 2022-2026 years.
 * The forcasting figure is shown below:
-* ![image](https://github.com/shuangyanwu/Time_Series_Cherry_blossom_peak_day/assets/112211152/ef4f1aeb-c6ac-46b7-9d8c-dd0b7c6383c6)
+![image](https://github.com/shuangyanwu/Time_Series_Cherry_blossom_peak_day/assets/112211152/ef4f1aeb-c6ac-46b7-9d8c-dd0b7c6383c6)
 
