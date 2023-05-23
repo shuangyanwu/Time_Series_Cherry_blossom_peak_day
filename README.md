@@ -6,5 +6,5 @@
 * Used ARIMA (1,1,2) models to fit the data and forcast for 2022-2026 years.
 
 ### 2. ETS (error, trend, seasonal) Models
-Learned Time Series ETS (error, trend, seasonal) Models by self-study and Presented the contents using google colab.
+Learned Time Series ETS (error, trend, seasonal) Models by self-study and presented the contents using google colab.
 
